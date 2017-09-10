@@ -1,0 +1,21 @@
+{
+    "name": "js-snippets",
+    "displayName": "js-snippets",
+    "description": "js snippets",
+    "version": "0.0.1",
+    "publisher": "erickwendel",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ] 
+    }
+}
