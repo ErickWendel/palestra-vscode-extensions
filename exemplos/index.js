@@ -15,7 +15,7 @@ app.route([
         path: '/',
         method: 'POST',
         config: {
-            handler: (req, reply) => {
+            handler: async(req, reply) => {
                 return await Promise.resolve(reply({ ok: true}))
             
             },
