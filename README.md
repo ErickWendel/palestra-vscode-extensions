@@ -1,29 +1,13 @@
 ## Building VSCode Extensions with TypeScript
 
-## Details
-- Show  in `status bar` the  Recurrence  of `Erick` words in text
-## Runing
-- On VSCode, run `F5`
 
-## Publishing
-- Personal Access Token: [Get a Personal Access Token](https://code.visualstudio.com/docs/extensions/publish-extension#_get-a-personal-access-token)
+## Runing Extension
+- `cd capi-ext`, Read the [README.md](/capi-ext/README.md)
 
-```
-vsce create-publisher capivara
+## Runing Snippet
+- `cp js-snippets ~/.vscode/extensions/`
+- Open VSCode, write `hapi:new` in JS file, then press `CTRL + space` to view hapi snippet on `Intellisense`
 
-# Questions on terminal
-#Publisher human-friendly name: (capivara) 
-#E-mail: YOUR_VISUALSTUDIO_EMAIL
-#Personal Access Token: YOUR_VISUALSTUDIO_TOKEN
-
-vsce login capivara
-vsce publish -p token #OR
-vsce publish minor
-
-vsce unpublish capivara.capi-ext
-delete-publisher capivara
-```
-## Description
 ### Author
  - [Erick Wendel](http://erickwendel.com.br)
  - [capivara.codes](http://capivara.codes)
