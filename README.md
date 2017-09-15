@@ -10,5 +10,5 @@
 
 ### Author
  - [Erick Wendel](http://erickwendel.com.br)
- - [capivara.codes](http://capivara.codes)
- - [presentation](http://)
+ - [capivara.codes](http://capivara.codes?from=erickwendel.com.br)
+ - [presentation](https://slides.com/erickwendel/building-vscode-extensions-with-typescript-capiconf-mini/)
