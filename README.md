@@ -26,5 +26,5 @@ delete-publisher capivara
 ## Description
 ### Author
  - [Erick Wendel](http://erickwendel.com.br)
- - [capivara.codes](capivara.codes)
- - [presentation]()
+ - [capivara.codes](http://capivara.codes)
+ - [presentation](http://)
